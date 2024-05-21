@@ -59,7 +59,7 @@ git push origin main
 <body>
     <header>
         <h1>Bienvenido a la Página de Aiimxr</h1>
-        <p>Explora el emocionante mundo de los videojuegos</p>
+        <p>¿quieres ser el mejor? En esta pagina web te enseño mi historia y como logré llegar hasta donde estoy el dia de hoy</p>
     </header>
     <nav>
         <a href="#about">Sobre Mi</a>
