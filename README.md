@@ -1,9 +1,4 @@
-git clone https://github.com/aiimxr/aiimxr.github.io
-cd aiimxr.github.io
-git add .
-git commit -m "Update webpage with new sections"
-git push origin main
-<!DOCTYPE html>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -69,8 +64,8 @@ git push origin main
 </head>
 <body>
     <header>
-        <h1>Bienvenido a la Página de Aiimxr</h1>
-        <p>Explora el emocionante mundo de los videojuegos</p>
+        <h1>Bienvenido, ganador</h1>
+        <p>Tu también te sientes frustrado porque sientes que no encajas en este mundo, y que estarias mejor en otro lugar? Si tu respuesta es que sí, tranquilo, estas en el sitio correcto, yo te ayudaré a salir del agujero, ya que yo también me he sentido como tu, y como nosotros, un sinfín de personas han estado en la misma situación. </p>
     </header>
     <nav>
         <a href="#about">Sobre Mi</a>
@@ -83,31 +78,27 @@ git push origin main
     <main>
         <section id="about" class="content-section">
             <h2>Sobre Mi</h2>
-            <p>Hola, soy Aimar, también conocido como Aiimxr. Soy un apasionado de los videojuegos y dedico mi tiempo a explorar, analizar y compartir contenido sobre ellos. ¡Únete a mí en este viaje a través de mundos virtuales fascinantes!</p>
-            <p>He jugado y analizado una amplia variedad de juegos a lo largo de los años. Me encanta compartir mis experiencias y ayudar a otros jugadores a mejorar sus habilidades y disfrutar más de sus juegos favoritos.</p>
+            <p>Hola, soy Aimar, tengo 15 años y yo también he pasado por malas rachas, y he tenido noches en las que mi cabeza se inundaba de dudas, estoy seguro de que tu también, y por eso estás aqui. Mucha más gente de la que piensas tiene estos problemas, pero el 85% de ellas no son lo suficientemente valientes para expresar lo que sienten. A lo largo de esta pagína web, te irás sintiendo identificado con varios de los apartados que voy a nombrar. </p>
+            <p>Tu y yo, saldremos juntos de esta. Te lo aseguro.</p>
         </section>
         <section id="projects" class="content-section">
-            <h2>Proyectos</h2>
-            <p>Aquí puedes encontrar una colección de mis proyectos más recientes relacionados con videojuegos. Desde análisis detallados hasta guías completas, todo está aquí para ayudarte a mejorar tu experiencia de juego.</p>
-            <p>Algunos de mis proyectos incluyen:</p>
-            <ul>
-                <li>Análisis en profundidad de juegos como <em>The Legend of Zelda</em> y <em>Dark Souls</em>.</li>
-                <li>Guías paso a paso para completar desafíos y misiones complicadas.</li>
-                <li>Tutoriales sobre técnicas avanzadas de juego.</li>
+            <h2>Principales problemas</h2>
+            <p> Los principales problemas que nos encontramos y por los que la mayoria de personas creemos que sobramos en esta sociedad, son varios. A continuación citaré varios de ellos, los mas comunes hoy en día:
+                <ul>
+                <li> Ideologias extremamente diferentes: no te ha pasado que no le encuentras ningún tipo de sentido a algo que hace la gente? Por ejemplo, tienes un grupo de amigos, o incluso, ves personas que hacen acciones que a ti no te parece que estén bien, y por ello, sientes que no encajas con ellos. Esto es totalmente normal, lo principal que hay que entender a la hora de pensar esto, es que siempre va a haber alguien con el mismo pensamiento o criterio que nosotros, hay un ejemplo increíble, que es el de las tartas, por mucho que a todo tu circulo, le encante la tarta de chocolate, y a ti te guste la de queso, no quiere decir que a todo el mundo le guste la de chocolate, hay gente que también le va a gustar la de queso, como a ti. Me gusta este ejemplo porque refleja muy bien la realidad que viven algunas personas. En resumen, no afirmes que no encajas en esta sociedad, si todavía no has encontrado a una persona que piensa como tu, porque siempre va a haber alguna.</li>
+                <li> Sobrepensar demasiado: este es un problema del que mas gente que cree sufre, sobrepensar, es un problema, ya que te hace darle mas vueltas de las que son necesarias a las cosas y lo único a lo que te lleva el hacer esto es mentir a tu cabeza, ya que cuantas más vueltas le das a las cosas, más cosas se inventa tu cabeza, y esto esta científicamente demostrado.</li>
+                <li>Círculo no apropiado: este punto esta muy ligado al primero, cuando tu te rodeas de gente con la que no compartes las mismas opiniones, gustos, etc. a lo que te lleva en muchos de los casos (no todos), es a pensar que sobras en ese grupo o ese entorno. Un círculo apropiado nos aporta una infinidad de ventajas, que mas adelante nombraremos.  .</li>
+              <li>Falta de comunicación: posiblemente el problema más grave, debido a que sin comunicación es cien veces más dificil buscar una solución para cualquier problema. La falta de comunicacion puede tener diversas razones, entre ellas, pensar que nadie nos entiende, y que por lo tanto, nadie nos puede ayudar, esto es completamente mentira, siempre va a haber una persona con los mismos gustos, forma de ser, etc. parecidos a los nuestros, y esto es una completa realidad. No comunicarnos con nadie solo empeora la situación, en vez de mejorarla. 
             </ul>
         </section>
         <section id="blog" class="content-section">
-            <h2>Blog</h2>
-            <p>En mi blog, comparto mis pensamientos y opiniones sobre los últimos lanzamientos de videojuegos, así como consejos y trucos para sacar el máximo provecho de tus juegos favoritos.</p>
-            <p>Algunos temas recientes en mi blog incluyen:</p>
-            <ul>
-                <li>Reseñas de nuevos lanzamientos.</li>
-                <li>Comparaciones entre diferentes títulos y géneros.</li>
-                <li>Reflexiones sobre la evolución de los videojuegos a lo largo del tiempo.</li>
+            <h2>Experiencia personal</h2>
+            <p>En esta seccion lo que os voy a intentar transmitir es lo que sufría yo.</p>
+            <ul> Considero, que yo he pasado por todos los apartados nombrados anteriormente. Relacionado con el primer y el tercer punto, sobre todo. Uno de mis grandes problemas eran las compañias, quieras que no, las personas que te rodean son una gran parte de tu vida, y te influyen mucho más de lo que piensas, debido a que pasas con ellos una gran parte de tu tiempo. Tener un circulo sano, puede variar dependiendo de las intenciones y los pensamientos de cada persona, pero generamente, definimos como un grupo o circulo sano, a unas personas que no se meten en problemas, ayudan a los demás, hacen deporte, no se drogan... Teniendo en cuenta esto, mi problema fué, que sin darme cuenta, me estaba metiendo en un grupo en el que, si seguía por mucho más tiempo, acabaría mal, muy mal. Finalmente, me alejé de ese grupo, y encontre gente con la que compartía mucho mas de lo que pensaba, gracias a eso, hoy en día, tengo a mis mejores amigos. Con el paso de los años, el tiempo me ha dado la razón, las personas con las que me dejé de juntar, cada vez se adentran más en un mundo del que no me gustaría formar parte, algo de lo que estoy orgulloso por mi mismo, pero no por ese grupo de personas, porque son personas que, tarde o temprano, acabarán mal, peor de lo que están.
             </ul>
         </section>
         <section id="videos" class="content-section">
-            <h2>Videos</h2>
+            <h2>Videos de los que me he guiado para salir de esta situación</h2>
             <p>Aquí puedes ver algunos de mis videos más recientes sobre videojuegos:</p>
             <video controls>
                 <source src="ruta/a/tu/video.mp4" type="video/mp4">
