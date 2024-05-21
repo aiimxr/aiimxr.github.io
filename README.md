@@ -112,7 +112,7 @@ git push origin main
             <video controls>
                 <source src="ruta/a/tu/video.mp4" type="video/mp4">
                 Tu navegador no soporta la etiqueta de video.
-            </video>
+            </Zw0MwIVG3zE>
             <p>También puedes ver mis videos en mi canal de YouTube:</p>
             <iframe width="560" height="315" src="https://www.youtube.com/embed/ID_DE_VIDEO" frameborder="0" allowfullscreen></iframe>
         </section>
